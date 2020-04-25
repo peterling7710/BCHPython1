@@ -1,6 +1,6 @@
 # BCHPython1
 
-Welcome to TRSM Bootcamp for Python1, provided by the BCH
+Welcome to TRSM Bootcamp for Python 1, provided by the BCH
 
 To donwload the content, click on the green link button ‘Clone or download’ and then click ‘Download’
 
